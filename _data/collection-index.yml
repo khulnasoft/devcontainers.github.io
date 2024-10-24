@@ -893,16 +893,16 @@
   contact: https://github.com/juan-ayala/devcontainer-templates/issues
   repository: https://github.com/juan-ayala/devcontainer-templates
   ociReference: ghcr.io/juan-ayala/devcontainer-templates
-- name: LocalStack DevContainer Feature
-  maintainer: LocalStack GmbH
-  contact: https://github.com/localstack/devcontainer-feature/issues
-  repository: https://github.com/localstack/devcontainer-feature
-  ociReference: ghcr.io/localstack/devcontainer-feature
-- name: LocalStack DevContainer Template
-  maintainer: LocalStack GmbH
-  contact: https://github.com/localstack/devcontainer-template/issues
-  repository: https://github.com/localstack/devcontainer-template
-  ociReference: ghcr.io/localstack/devcontainer-template
+- name: KhulnaSoft DevContainer Feature
+  maintainer: KhulnaSoft GmbH
+  contact: https://github.com/khulnasoft/devcontainer-feature/issues
+  repository: https://github.com/khulnasoft/devcontainer-feature
+  ociReference: ghcr.io/khulnasoft/devcontainer-feature
+- name: KhulnaSoft DevContainer Template
+  maintainer: KhulnaSoft GmbH
+  contact: https://github.com/khulnasoft/devcontainer-template/issues
+  repository: https://github.com/khulnasoft/devcontainer-template
+  ociReference: ghcr.io/khulnasoft/devcontainer-template
 - name: DeepSpaceCartel DevContainer Features
   maintainer: DeepSpaceCartel Inc.
   contact: https://github.com/deep-space-cartel/devcontainers-features/issues
